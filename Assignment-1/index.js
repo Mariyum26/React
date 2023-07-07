@@ -4,6 +4,6 @@ root.render(heading);
 
 
 var el=React.createElement("div",{},React.createElement("div",{},
-[React.createElement("h1",{},"Hello World!"),React.createElement("h1",{},"Hello World222222222!")]));
+[React.createElement("h1",{},"Hello World!"),React.createElement("h1",{},"Hello World222222222 by react!")]));
 root.render(el);
 
